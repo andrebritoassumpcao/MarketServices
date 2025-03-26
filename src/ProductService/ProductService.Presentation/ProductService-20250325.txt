@@ -1,0 +1,40 @@
+25-03-2025 16:07:46 [INF] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:07:46 [WRN] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:15:45 [INF] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:15:45 [WRN] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:16:16 [INF] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:16:16 [WRN] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:16:53 [INF] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:16:53 [WRN] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:20:38 [INF] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:20:38 [WRN] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:21:34 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:21:34 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:21:34 [INF] Error ocurred retrieving product
+25-03-2025 16:21:34 [WRN] Error ocurred retrieving product
+25-03-2025 16:26:01 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:26:02 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:26:09 [INF] Error ocurred retrieving product
+25-03-2025 16:26:09 [WRN] Error ocurred retrieving product
+25-03-2025 16:26:28 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:26:28 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:26:30 [INF] Error ocurred retrieving product
+25-03-2025 16:26:30 [WRN] Error ocurred retrieving product
+25-03-2025 16:26:53 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:26:53 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:28:01 [INF] Error ocurred retrieving product
+25-03-2025 16:28:01 [WRN] Error ocurred retrieving product
+25-03-2025 16:32:19 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:32:19 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 16:32:19 [INF] Error ocurred retrieving product
+25-03-2025 16:32:19 [WRN] Error ocurred retrieving product
+25-03-2025 16:32:47 [INF] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 16:32:47 [WRN] No service for type 'ProductService.Application.UseCases.AddProductUseCase' has been registered.
+25-03-2025 17:32:30 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 17:32:30 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 17:32:30 [INF] Error ocurred retrieving product
+25-03-2025 17:32:30 [WRN] Error ocurred retrieving product
+25-03-2025 19:26:39 [INF] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 19:26:39 [WRN] No database provider has been configured for this DbContext. A provider can be configured by overriding the 'DbContext.OnConfiguring' method or by using 'AddDbContext' on the application service provider. If 'AddDbContext' is used, then also ensure that your DbContext type accepts a DbContextOptions<TContext> object in its constructor and passes it to the base constructor for DbContext.
+25-03-2025 19:27:02 [INF] Error ocurred retrieving product
+25-03-2025 19:27:02 [WRN] Error ocurred retrieving product

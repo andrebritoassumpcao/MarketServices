@@ -1,3 +1,4 @@
+using ProductService.Application.DependencyInjection;
 using ProductService.Application.Mapper;
 using ProductService.Infraestructure.DependencyInjection;
 
@@ -14,6 +15,7 @@ public class Program
         builder.Services.AddSwaggerGen();
         builder.Services.AddAutoMapper(typeof(MapperDtoEntityConfigure));
         builder.Services.AddInfraestructureService(builder.Configuration);
+        builder.Services.AddApplicationService(builder.Configuration);
 
         var app = builder.Build();
 
